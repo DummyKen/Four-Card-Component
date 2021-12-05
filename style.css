@@ -122,6 +122,12 @@ header .heading{
 
 }
 
+@media(max-width:975px){
+    .cards{
+        transform: none;
+    }
+}
+
 
 
 
